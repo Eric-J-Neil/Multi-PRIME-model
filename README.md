@@ -1,4 +1,5 @@
-# Multi-PRIME-Model - 'Multimodal Physically-Based Root Water Uptake Isotope Mixing Estimation'
+# Multi-PRIME-Model
+# 'Multimodal Physically-Based Root Water Uptake Isotope Mixing Estimation'
 
 The Multi-PRIME model combines a semi-nonparametric, continuous, multimodal probability density function for root water 
 uptake with site physical data in a process-based linear mixing framework, written in MatLab language.
