@@ -10,7 +10,7 @@ The "Multi-PRIME-Model" file contains the Multi-PRIME main program.
 The "Multi-PRIME input data" files contain organized sample data from the Nisbet Provincial 
 Forest, Saskatchewan, Canada from August 13, 22, 29, and September 4, 2019.
 
-For comparison of the mixing model MixSIAR to Multi-PRIME, additional files are included.
+For comparison of the mixing model MixSIAR to Multi-PRIME, additional files are included:
 
 The "MixSIAR_model_" files contain R scripts for MixSIAR models.
 
