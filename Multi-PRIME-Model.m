@@ -1,4 +1,13 @@
 %--------------------------------------------------------------------------
+%     A program for the ‘multimodal physically-based root water uptake 
+%     isotope mixing estimation’ (Multi-PRIME) model, a process-based 
+%     semi-nonparametric continuous isotope mixing model.                     
+%     Requires measured sap flux, soil water and sap          
+%     isotopic ompositions, and soil and leaf water potentials.
+%     Written by Bing Cheng Si, University of Saskatchewan, May 8, 2023.
+%--------------------------------------------------------------------------
+
+%--------------------------------------------------------------------------
 %                          Specify data inputs
 %--------------------------------------------------------------------------
 close all
